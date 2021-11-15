@@ -5,4 +5,4 @@ This mod allows for the pancake stepper motor to be installed upside down for cl
 
 use at your own risk
 
-![alt text](https://github.com/jeffreynichols/X_Carriage_90_x_Umbilical/blob/main/20211115_131416.jpg)
+![alt text](https://github.com/jeffreynichols/X_Carriage_90_x_Umbilical/blob/main/20211115_131416.jpg | width=100)
